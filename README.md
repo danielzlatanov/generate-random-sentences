@@ -9,7 +9,9 @@ Link to the source code **->** [code.js](https://github.com/danielzlatanov/gener
 ### Live Demo
 You can generate a sentence by clicking the image **or** the link below!
 
-Make sure to **type this command in Replit:**
+Click the `Run` button in Replit, in order to run this generator.
+
+Alternatively, make sure to **type this command in Shell:**
 >node generate
 
 [Link](https://replit.com/@danielzlatanov/generate-random-sentences#generate.js)
